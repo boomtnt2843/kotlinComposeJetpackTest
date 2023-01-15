@@ -1,0 +1,2 @@
+# kotlinComposeJetpackTest
+Just conversation simulator
